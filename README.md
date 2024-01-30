@@ -1,4 +1,7 @@
-# General Rules of Stock Siege
+---
+icon: home
+--- 
+# Welcome
 
 ## (Last Updated 12/12/2023)
 
