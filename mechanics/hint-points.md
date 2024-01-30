@@ -1,18 +1,31 @@
 # Hint Points (Standard System)
 
 The Standard Hint System works as follows, in 24 Player game.
+
 Rewards for each Events goes as:
+
 1st: 6
+
 2nd: 5
+
 3rd: 4
+
 4th: 4
+
 5th: 3
+
 6th: 3
+
 7th: 2
+
 8th: 2
+
 9th: 2
+
 10th: 1
+
 11th: 1
+
 12th: 1
 
 Hints go as follows:
