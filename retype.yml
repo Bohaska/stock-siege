@@ -3,4 +3,5 @@ output: .retype
 url: bohaska.github.io/stock-siege/
 branding:
   title: Stock Siege
-  label: Info
+  label: Lunarisk
+favicon: favicon.png
