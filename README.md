@@ -3,8 +3,6 @@ icon: home
 --- 
 # Welcome
 
-## (Last Updated 12/12/2023)
-
 Greetings and welcome to Stock Siege!
 
 The Alternative RV (ARV) based on the stock market.
@@ -16,3 +14,5 @@ It’s best if you read everything before participating in the game.
 See the basic rules, or explore the left side-bar yourself.
 
 [!ref Basic Rules (Classic Gamemode)](/rules)
+
+:::Last Updated: 12/12/2023:::
