@@ -1,3 +1,6 @@
+---
+icon: book
+--- 
 # Basic Rules
 
 ## (Classic Gamemode)
