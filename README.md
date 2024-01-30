@@ -15,4 +15,4 @@ It’s best if you read everything before participating in the game.
 
 See the basic rules, or explore the left side-bar yourself.
 
-[!ref Basic Rules (Classic Gamemode)](/rules/basic-rules)
+[!ref Basic Rules (Classic Gamemode)](/rules)
