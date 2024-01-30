@@ -46,7 +46,9 @@ Price change   | Odds change
 All Odds begin at 50% Increase Odds, and as stated in this picture, are determined as if that value is chosen (left), Specific amount of changes occur to that stock’s odds (right).
 
 For example, If a Cherry Stock got a +90% Increase, The odds will decrease by -9. If it gets -60% Decrease, It increases by +12, and so on.
-
-[!badge variant="danger" text="Copy this table AND New Price Board, for the best experience. Consequences of not doing such, result in the Player's resort to Pure Luck due to lack of knowledge at Odds Calculation."]
-
-[!badge variant="danger" text="At least ONE ETU (Expect the Unexpected) Year will occur, where most stocks do not give the expected Stock Prices. So be aware of it!"]
+!!!danger Calculate odds each year
+Copy this table AND New Price Board, for the best experience. Consequences of not doing such, result in the Player's resort to Pure Luck due to lack of knowledge at Odds Calculation.
+!!!
+!!!danger Expect the Unexpected
+At least ONE ETU (Expect the Unexpected) Year will occur, where most stocks do not give the expected Stock Prices. So be aware of it!
+!!!
