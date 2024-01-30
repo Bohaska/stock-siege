@@ -1,5 +1,5 @@
 ---
-icon: bell
+icon: light-bulb
 ---
 # Hint Points (Standard System)
 
