@@ -1,7 +1,8 @@
 ---
 icon: light-bulb
 ---
-# Hint Points (Standard System)
+# Hint Points
+### (Standard System)
 
 The Standard Hint System works as follows, in 24 Player game.
 
