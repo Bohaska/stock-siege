@@ -22,14 +22,17 @@ Using will give ALL stocks’ Increase Chances (Odds).
 
 ## LV1 Hint (Strength) - Cost: 1
 [!badge variant="info" text="Requires prompt with Item to show the hint."]
+
 Using will give Strength Hint (Low, Medium, High) for that selected stock.
 
 ## LV2 Hint (Values) - Cost: 2
 [!badge variant="info" text="Requires prompt with Item to show the hint."]
+
 Gives you TWO possible values it can get, based on Odds Calculation.
 
 ## LV3 Hint (Result) - Cost: 3
 [!badge variant="info" text="Requires prompt with Item to show the hint."]
+
 Instantly gives the answer on if the Stock is rising or falling in price.
 
 You may donate hint points to other players at will. [!badge variant="danger" text="(Applies only for Classic, Runes of Power & Apocalypse)"]
