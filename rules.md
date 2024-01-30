@@ -2,8 +2,7 @@
 icon: book
 --- 
 # Basic Rules
-
-## (Classic Gamemode)
+### (Classic Gamemode)
 
 All Players begin with 500,000 Cash.
 
