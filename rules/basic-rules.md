@@ -2,8 +2,9 @@
 
 All Players begin with 500,000 Cash.
 
-An event will begin before Year 1, 4 and 7, for a chance to earn [!ref Hint Points](/mechanics/hint-points).
+An event will begin before Year 1, 4 and 7, for a chance to earn Hint Points.
 
+[!ref Hint Points](/mechanics/hint-points)
 
 After the Year begins, You can purchase items from the Stock Market.
 
