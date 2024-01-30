@@ -37,13 +37,15 @@ Rank | Playoff Points
 
 In addition, If you are below Cutoff Point by the end of each round, You will be eliminated and have your inventory frozen. **Eliminated Players cannot purchase items, use Hint Points in any way, or participate in events.** Each Survivors’ Playoff Points are equivalent to 2% Extra Cash along with Next Round’s Starting Cash. Keep in mind that Stock Prices & Odds will not reset.
 
-- Round of 12 (Y10~Y14) - 5,000,000 + Bonus
+### Round of 12 (Y10~Y14) - 5,000,000 + Bonus
  - +500 -35 Odd will appear starting at this point
  - -85 +35 Odd will appear starting this point
-- Round of 8 (Y15~Y19) - 50,000,000 + Bonus
+
+### Round of 8 (Y15~Y19) - 50,000,000 + Bonus
  - +900 -50 Odd will appear starting at this point
  - -90 +50 Odd will appear starting at this point
-- Round of 4 (Y20) - 500,000,000 + Bonus
+
+### Round of 4 (Y20) - 500,000,000 + Bonus
  - One Year Decision
  - All Tiebreakers result in Overtime Year Purchase.
 
