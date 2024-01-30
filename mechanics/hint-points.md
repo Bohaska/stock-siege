@@ -29,8 +29,8 @@ Using will give ALL stocks’ Increase Chances (Odds).
 !!!warning Note
 The odds of stocks can be calculated by yourself if you keep track of stock price changes. See [Odds Calculation](/mechanics/odds-calculation) for more info.
 !!!
-!!!danger
-You may only use this hint ONCE in a single year. Cannot use it in Year 1.
+!!!danger Restrictions
+You may only use this hint ONCE in a single year, as using it multiple times has no effect. Cannot be used in Year 1. Odds of all stocks in Year 1 are 50%.
 !!!
 
 ## LV1 Hint (Strength) - Cost: 1
