@@ -1,3 +1,6 @@
+---
+icon: trophy
+---
 # Season Points 
 
 Season Points are essential in order to join the Final Season of each series.
