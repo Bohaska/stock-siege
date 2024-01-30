@@ -22,9 +22,12 @@ Please note that You may only buy a maximum of 9,999,999 Stocks per item!
 
 There are three basic methods of purchase:
 
-- Stating exact number of items you want to purchase
-- Splitting into ratios (In this case, Cash divided by Total Ratio Number)
-- Going All-in on certain item(s) (Not recommended unless certain)
+Stating exact number of items you want to purchase
+:   Buy 100 A Cherry
+Splitting into ratios (In this case, Cash divided by Total Ratio Number)
+:   Buy half A Cherry and half B Gold
+Going All-in on certain item(s) (Not recommended unless certain)
+:   Buy A Cherry
 
 
 The Standard Deadline of purchase is 48 hours (a.k.a. 2 Days). However, they can be extended or shortened.
@@ -38,3 +41,5 @@ All Purchased Items will NOT be kept, and will be erased after results are revea
 
 The Cycle starts over again, and at the end of Year 9, Whoever has the most cash wins the season.
 Cash is then converted to Season Points. The Formula goes with the Logarithmical Method of Calculation (Base 2).
+
+[!ref Season Points](/mechanics/season-points)
