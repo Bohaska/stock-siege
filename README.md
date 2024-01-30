@@ -15,4 +15,6 @@ See the basic rules, or explore the left side-bar yourself.
 
 [!ref Basic Rules (Classic Gamemode)](/rules)
 
+See the source code of this page at [https://github.com/Bohaska/stock-siege](https://github.com/Bohaska/stock-siege).
+
 :::Last Updated: 12/12/2023:::
