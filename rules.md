@@ -24,8 +24,10 @@ There are three basic methods of purchase:
 
 Stating exact number of items you want to purchase
 :   Buy 100 A Cherry
+
 Splitting into ratios (In this case, Cash divided by Total Ratio Number)
 :   Buy half A Cherry and half B Gold
+
 Going All-in on certain item(s) (Not recommended unless certain)
 :   Buy A Cherry
 
