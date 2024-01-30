@@ -23,18 +23,20 @@ Buy/Sell [Quantity] [Item Name]
 
 There are three basic methods of purchase:
 
-###
 
-Stating exact number of items you want to purchase
-:   Buy 100 A Cherry
+Number
+:   Stating exact number of items you want to purchase
+    > Buy 100 A Cherry
 
-Splitting into ratios (In this case, Cash divided by Total Ratio Number)
-:   Buy half A Cherry and half B Gold
+Ratio
+:   Splitting into ratios (In this case, Cash divided by Total Ratio Number)
+    > Buy half A Cherry and half B Gold
+    > Buy 70% A Cherry and 30% B Gold
 
-Going All-in on certain item(s) (Not recommended unless certain)
-:   Buy A Cherry
+All-in
+:   Just spend all your cash on one stock
+    > Buy A Cherry
 
-###
 
 !!!danger Maximum stock limit
 Please note that You may only buy a maximum of 9,999,999 Stocks per item!
