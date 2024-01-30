@@ -10,4 +10,6 @@ This document contains ALL instructions of every MAINSTREAM LunarisK Stock Siege
 
 It’s best if you read everything before participating in the game.
 
-See the basic rules [!ref here](/rules/basic-rules), or explore the left side-bar yourself.
+See the basic rules, or explore the left side-bar yourself.
+
+[!ref Basic Rules (Classic Gamemode)](/rules/basic-rules)
