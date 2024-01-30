@@ -28,7 +28,7 @@ Using will give Strength Hint (Low, Medium, High) for that selected stock.
 ## LV2 Hint (Values) - Cost: 2
 [!badge variant="info" text="Requires prompt with Item to show the hint."]
 
-Gives you TWO possible values it can get, based on Odds Calculation.
+Gives you TWO possible values it can get, the actual change in price, and its reversed change in price. For example, if the actual change in price is positive, the other possible value given would be a negative change in price. 
 
 ## LV3 Hint (Result) - Cost: 3
 [!badge variant="info" text="Requires prompt with Item to show the hint."]
