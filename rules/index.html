@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/stock-siege">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.759932347660">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.759933027947">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -32,11 +32,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../favicon.png" rel="icon">
-    <link href="../resources/css/retype.css?v=3.5.0.759932347660" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.5.0.759933027947" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.759932347660" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.759933027947" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.759932347660" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.759933027947" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -184,17 +184,34 @@
 <p>Buy/Sell [Quantity] [Item Name]</p>
 <p>Please note that You may only buy a maximum of 9,999,999 Stocks per item!</p>
 <p>There are three basic methods of purchase:</p>
-<ul>
-<li>Stating exact number of items you want to purchase</li>
-<li>Splitting into ratios (In this case, Cash divided by Total Ratio Number)</li>
-<li>Going All-in on certain item(s) (Not recommended unless certain)</li>
-</ul>
+<dl>
+<dt>Stating exact number of items you want to purchase</dt>
+<dd>Buy 100 A Cherry
+Splitting into ratios (In this case, Cash divided by Total Ratio Number)</dd>
+<dd>Buy half A Cherry and half B Gold
+Going All-in on certain item(s) (Not recommended unless certain)</dd>
+<dd>Buy A Cherry</dd>
+</dl>
 <p>The Standard Deadline of purchase is 48 hours (a.k.a. 2 Days). However, they can be extended or shortened.</p>
 <p>Keep in mind that Remaining in debt after Year’s End results in empty inventory without warning!</p>
 <p>When the Stock Market has been closed, New Price will be revealed, and Results for individual inventories will be revealed, along with Leaderboard.</p>
 <p>All Purchased Items will NOT be kept, and will be erased after results are revealed.</p>
 <p>The Cycle starts over again, and at the end of Year 9, Whoever has the most cash wins the season.
 Cash is then converted to Season Points. The Formula goes with the Logarithmical Method of Calculation (Base 2).</p>
+<p>
+<div class="mb-6 px-5 py-4 flex justify-between relative border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded transition-colors duration-150">
+    <div class="flex items-center text-blue-500 dark:text-blue-400">
+        <span class="inline-block mb-px">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" role="presentation" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"/><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z"/></svg>
+        </span>
+        <span class="inline-block font-medium ml-2">Season Points</span>
+    </div>
+    <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
+        <span>../mechanics/season-points/</span>
+    </div>
+    <a href="../mechanics/season-points/" class="absolute block inset-0"></a>
+</div>
+</p>
 
                                 
                                 <!-- Required only on API pages -->
