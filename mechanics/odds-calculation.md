@@ -1,3 +1,6 @@
+---
+icon: number
+---
 # Odds Calculation
 
 How do you calculate the odds of an item increasing or decreasing in price for every item? It’s simple.
